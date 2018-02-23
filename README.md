@@ -4,5 +4,5 @@ An Armstrong number is a number wherein the sum of the cubes of each of the digi
 For example, consider the 3-digit number 153. The sum of all the cubes of the digits give 153, which is the number itself.
 1^3+5^3+3^3 = 153.
 
-*This code takes input as the range between any two positive integers(m,n), where m<n.
+*This code takes input as the range between any two positive integers(m,n), where m<n.*
 
